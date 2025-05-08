@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <header>
+       <div class="container">
+           <nav>
+               <div class="nav-brand">
+                
+                   <h3>BAMS<br /><span>.tech</span></h3>
+               </div>
+               <ul class="nav-list">
+                   <li class="nav-item">
+                       <a href="#"  class="nav-link current">Home</a>
+                   </li>
+                   <li class="nav-item">
+                    <a href="../HTML/contact.html" class="nav-link">Contact</a>
+                </li>
+                <li class="nav-item">
+                    <a href="../HTML/Services.html" class="nav-link">Services</a>
+                </li>
+                <li class="nav-item">
+                    <a href="../HTML/Login.html" class="nav-link">Login</a>
+                </li>
+               </ul>
+           </nav>
+         
+            <div class="motto">
+                     <p id="brand-motto">
+                        Solving todays problems,coding tomorrow solution
+                    </p>
+              
+                
+                </div>
+       </div>
+      
+   </header> 
+   <main
+       <section class="hero">
+           <div class="container">
+                <div class="main-message">
+                        <h2>welcome <br>to bams.tech</h2>
+                        <p>Bams tech is a full-service troubleshooting & programming company committed to solving tech problem his and delivering customized software solutions.</p>
+                        <div class="cta">
+                         <a href="#" class="btn">Subscribe now</a>
+                     </div>
+                    </div>
+                       <div class="social-icons">
+                                <a href="../images/bams2.png">..../images/bams2.png</a>
+              
+          </div>
+                      <span>&copy; 2024 Bams.tech  All rights reserved</span>
+
+
+           </div>
+ 
+ 
+</body>
+</html>
